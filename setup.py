@@ -5,7 +5,8 @@ setup(
   packages = ['Topsis-Aryan-102003586'],   # Chose the same as "name"
   version = '0.1',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
-  description = 'TYPE YOUR DESCRIPTION HERE',   # Give a short description about your library
+  description = 'Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS) Topsis is a Python library for advanced topic analysis. It simplifies the process of analyzing text data, making it accessible for both beginners and experienced data scientists.
+', # Give a short description about your library
   author = 'Aryan Gupta',                   # Type in your name
   author_email = 'agupta4_be20@thapar.edu',      # Type in your E-Mail
   url = 'https://github.com/aryan678/Topsis-Pypi-package.git',   # Provide either the link to your github or to your website
